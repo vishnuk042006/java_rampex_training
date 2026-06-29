@@ -1,4 +1,4 @@
-package day01;
+package day07;
 
 public class secondmax {
     
