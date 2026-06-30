@@ -1,4 +1,4 @@
-package day07;
+package javapractice.day08;
 
 public class moveszeros  {
     public static void main(String[] args) {
